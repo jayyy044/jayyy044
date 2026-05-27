@@ -1,5 +1,3 @@
-# Maanas Saxena
-
 Computer Nano Engineering @ University of Alberta 
 
 ML Engineer Intern @ [Tandem](https://tandemai.io/) (SF)
