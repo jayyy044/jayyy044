@@ -1,6 +1,6 @@
-Computer Nano Engineering @ University of Alberta 
+computer nano engineering @ university of alberta 
 
-ML Engineer Intern @ [Tandem](https://tandemai.io/) (SF)
+mle intern @ [Tandem](https://tandemai.io/)
 
 Interested in LLM internals, and applied ML systems.
 
